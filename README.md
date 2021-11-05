@@ -4,7 +4,7 @@
 
 > On this capstone we created a website using the TvMaze API
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 The website displays the seasons and episodes of three chosen TV shows, as well as having a comment section for every episode connected to the involvement API, the project was built with HTML, CSS, JavaScript, bundled with Webpack and tested with Jest.
 
